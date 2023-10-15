@@ -1,0 +1,81 @@
+* body {
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /*PORTADA*/
+  
+ 
+ 
+
+  
+  
+  
+  img {
+    width: 100%;
+    margin-right: 50px;
+    box-shadow: 0px 3px 5px rgba(rgb(255, 255, 255), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
+  }
+  
+  /*CUENTA REGRESIVA*/
+  
+  @media (max-width: 730px) {
+    .cuenta-regresiva {
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      gap: 1em;
+      padding: 0.8em;
+      margin-top: 1%;
+  }
+  .cr-time > span {
+      font-size: 15px;
+      font-weight: bold;
+      color:#BA5733;
+      
+  }
+  .cr-desc {
+      color: rgb(125, 125, 125);
+      font-family: 'Sacramento', cursive;
+      
+  }
+  .cr-block {
+      background: #c9c9c92e;
+      border-radius: 5px;
+      padding: 0.1em 0.5em;
+      background-size: 80%;
+  }
+  .segundo{
+width: 17%;
+margin-top: -29%;
+margin-left: 68%;
+  }
+
+  .Play{
+  
+    font-family: 'Sacramento', cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5%;
+    color: #b7b2b6;
+   
+   }
+    h5{
+    font-size: 30px;
+    text-align: center;
+    margin-top: -10%;
+    
+    
+    }
+    .audio{
+      width: 35%;
+      height: 20px;
+      margin-left: 32%;
+      background-color: #C2DBBA;
+      color: #D6AB8A;
+      margin-top: -45%;
+      
+  }
+
+
+ }
