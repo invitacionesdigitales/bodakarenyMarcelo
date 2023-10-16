@@ -101,7 +101,7 @@ margin-left: 68%;
 .parrafo2{
   text-align: center;
   font-family: 'Dancing Script', cursive; 
-   font-size: 27px;
+   font-size: 29px;
    color: #BA5733;
 }
 .parrafo3{
@@ -118,7 +118,7 @@ margin-left: 68%;
   color: rgb(255, 255, 255);
   background-color:  #BA5733;
   border-radius: 7px;
-  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+  box-shadow: 1px 1px 30px -5px rgb(120, 155, 117);
   cursor: pointer;
   margin-left: 34%;
   background-size: 120%;
@@ -135,6 +135,7 @@ margin-left: 68%;
   text-align: center;
   font-family: 'Dancing Script', cursive;  
    color: #888888;
+   font-size: 25px;
  margin-top: -120%;
 
 }
@@ -189,7 +190,7 @@ margin-top: 5%;
   color: rgb(255, 255, 255);
   background-color:  #BA5733;
   border-radius: 7px;
-  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+  box-shadow: 1px 1px 30px -5px rgb(120, 155, 117);
   cursor: pointer;
   margin-left: 34%;
   background-size: 120%;
