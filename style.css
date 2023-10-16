@@ -131,4 +131,205 @@ margin-left: 68%;
   width: 20%;
   margin-left: 40%;
 }
+.parrafo04{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+ margin-top: -120%;
+
+}
+
+
+.cardimg{
+  width: 60%;
+  height: 60%;
+  margin-left: 20%;
+ 
+}
+
+.cardtitle{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+   color: #888888;
+}
+.cardtext{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 23px;
+   color: #888888;
+   margin-top: 10%;
+}
+.cardtext1{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+   margin-top: 3%;
+}
+.mapa{
+  width: 80%;
+  height: 80%;
+  margin-left: 23%;
+margin-top: 5%;
+
+}
+.hojas{
+  width: 30%;
+  margin-left: 36%;
+  margin-top: -15%;
+}
+
+.btn_btn-primary{
+  padding: 1px 9px;
+  font-size: 24px;
+  font-weight: 1200;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color:  #BA5733;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+  cursor: pointer;
+  margin-left: 34%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-image: url(./imagenes/grises.gif);
+  background-size: 50%;
+  font-family: 'Dancing Script', cursive; 
+}
+.vestimenta{
+  width: 30%;
+  margin-top: -240%;
+  margin-left: 35%;
+}
+.parrafo08 {
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+   margin-top: -100%;
+}
+.parrafo6{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+     margin-top: -130%;
+     
+ }
+ .whatsap{
+  width: 40%;
+  margin-left: 30%;
+ }
+.icono{
+  text-align: center;
+    font-family:'Times New Roman', Times, serif; 
+     font-size: 13px;
+     color: #BA5733; ;
+    
+ }
+ .whatsap2{
+  width: 40%;
+  margin-left: 30%;
+ }
+ .sabri{
+  width: 20%;
+  margin-top: -50%;
+  margin-left: 18%;
+ }
+ .jon{
+  width: 20%;
+  margin-top: -50%;
+  margin-left: 18%;
+ }
+ .fondo4{
+  margin-top: -14%;
+ }
+ .parrafo_deposito{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+ margin-top: -125%
+ }
+
+ .card_card-body img{
+  margin-left: 29%;
+  background-size: 80%;
+  width: 75%;
+}
+.btn_btn-primary2{
+  padding: 1px 9px;
+  font-size: 24px;
+  font-weight: 1200;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color:  #BA5733;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+  cursor: pointer;
+  margin-left: 38%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-image: url(./imagenes/grises.gif);
+  background-size: 50%;
+  font-family: 'Dancing Script', cursive;
+}
+ .parrafo_esperamos{
+  text-align: center;
+    font-family: 'Dancing Script', cursive;
+     font-size: 24px;
+     color: #888888;
+     margin-top: 40%;
+ }
+ .linea4{
+  margin-top: -5%;
+  color: #f3f3f3;
+}
+
+
+
+
+.tecla {
+margin-top: -50%;
+ margin-left: 50%;
+}
+
+
+.box__copyright {
+  max-width: 1200px;
+  padding: 1px 5px;
+  text-align: center;
+  margin-top: 20%;
+  background-image: url(./imagenes/fondo2.jpg);
+  font-size: 100%;
+}
+
+.box__copyright p {
+  margin-top: -10px;
+  color: #cacaca;
+  font-size: 10px;
+  text-align: center;
+}
+
+.box__copyright a {
+  text-decoration: none;
+  color: #c3c3c3;
+}
+.logo{
+  width: 20%;
+  margin-left: 55%;
+  margin-top: 80%;
+}
+.novios{
+  width: 39%;
+  margin-left: 30%;
+}
+.gif-final {
+width: 20%;
+margin-top: -68%;
+margin-left: 51%;
+}
  }
