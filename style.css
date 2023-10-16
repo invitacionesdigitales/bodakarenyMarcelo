@@ -76,6 +76,59 @@ margin-left: 68%;
       margin-top: -45%;
       
   }
+.novios{
+  width: 85%;
+  margin-left: 8% ;
+  
+}
+.parrafo1{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+     font-size: 25px;
+     color: #888888;
+     margin-top: -125%;
+}
+.fondo1{
+  margin-top: 3%;
+}
 
-
+.linea{
+  color:#7e917d;
+  width: 70%;
+ margin-left: 15%;
+ 
+}
+.parrafo2{
+  text-align: center;
+  font-family: 'Dancing Script', cursive; 
+   font-size: 27px;
+   color: #BA5733;
+}
+.parrafo3{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+   font-size: 25px;
+   color: #888888;
+}
+.click1 {
+  padding: 1px 9px;
+  font-size: 24px;
+  font-weight: 1200;
+  border: none;
+  color: rgb(255, 255, 255);
+  background-color:  #BA5733;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
+  cursor: pointer;
+  margin-left: 34%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-image: url(./imagenes/grises.gif);
+  background-size: 50%;
+  font-family: 'Dancing Script', cursive;  
+}
+.iglesia{
+  width: 20%;
+  margin-left: 40%;
+}
  }
